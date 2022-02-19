@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" style="width:100px;" />
+<img src="/unologo.svg" style="width:100px;" />
 </p>
 
 <h1 align="center">UnoCSS</h1>
@@ -11,7 +11,7 @@ The instant on-demand Atomic CSS engine.
 </p>
 
 <p align="center">
-<a href="https://www.npmjs.com/package/unocss"><img src="https://img.shields.io/npm/v/unocss?color=c95f8b&amp;label=" alt="NPM version"></a></p>
+<a href="https://www.npmjs.com/package/unocss"><img src="https://img.shields.io/npm/v/unocss?color=ffffff&amp;label=" alt="NPM version"></a></p>
 
 <blockquote align="center">
 <p>💡 I highly recommend reading this blog post - <br><a href="https://antfu.me/posts/reimagine-atomic-css"><strong>Reimagine Atomic CSS</strong></a><br>for the story behind</p>
